@@ -4,3 +4,35 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: arial, sans-serif;
+    background-color: brown;
+    font-size: 1rem
+}
+
+header {
+background-color: aqua;
+padding: 20px 40px;
+width: 100%;
+}
+
+.menus {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lista-vertical ul
+.lista-horizontal ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.lista-vertical li a,
+.lista-horizontal li a {
+color: aquamarine;
+text-decoration: none;
+font-size: 1.25px;
+padding: 10px 15px;
+border-radius: 5px;
+}
