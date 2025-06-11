@@ -31,3 +31,10 @@ header {
   padding: 10px 15px;
   border-radius: 5px;
 }
+
+h1 {
+    text-align: center;
+    color: var(--preto);
+    margin-bottom: 60px;
+    font-size: 4rem;
+}
