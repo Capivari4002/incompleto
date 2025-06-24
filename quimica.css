@@ -152,15 +152,15 @@ footer {
 }
 
 .atividades .card {
-  border-left: 4px solid #71c0bb;
+  border-left: 4px solid #000000;
 }
 
 .laboratorio .card {
-  border-left: 4px solid #4e6688;
+  border-left: 4px solid #000000;
 }
 
 .provas .card {
-  border-left: 4px solid #332d56;
+  border-left: 4px solid #000000;
 }
 
 @media (max-width: 768px) {
